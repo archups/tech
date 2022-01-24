@@ -1,2 +1,2 @@
-# tech.github.io
+# Tech
 Technical Documentation
